@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Interested in Home Automation and working on ways to ✨ automate ✨ things to make lives easier.
+
 <!--
 **inverse/inverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
